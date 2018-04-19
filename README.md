@@ -1,5 +1,5 @@
 # Data-Science Medical-Data
-  Data Science - An academic project to predict Customers behavior, who based on data science technique. Here, the solution is to predict. The Current dataset has around 200K rows with around 22 Values or attributes.
+  Data Science - An academic project to predict Customers behavior, whose predictions are based on data science techniques. Here, the solution is to predict the re-admission status of the Patient. The current dataset has around 200K rows with around 22 Values or attributes.
 
   Responsibilities: To predict which patient has more chance of come back and admit in the hospital.
 
